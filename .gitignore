@@ -1,5 +1,8 @@
+model.onnx
+pytorch_model.bin
+training_args.bin
 license.txt
-bashrc
+.bashrc
 .cache/
 .config/
 .docker/
