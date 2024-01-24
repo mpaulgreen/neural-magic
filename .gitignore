@@ -6,7 +6,7 @@ license.txt
 .cache/
 .config/
 .docker/
-.ipynb_checkpoint
+.ipynb_checkpoint*
 .ipython/
 .jupyter/
 .local/
